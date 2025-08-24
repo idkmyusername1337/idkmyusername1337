@@ -62,6 +62,10 @@ https://idksec.hashnode.dev/
 ![SC-900](https://img.shields.io/badge/SC--900-Security%20Compliance%20Identity-blue?style=for-the-badge&logo=microsoft)
 [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/chandrimadas-7898/achievements) 
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+
 ## 🌟Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cybergirly-chandrima/)
 [![Hashnode](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://idksec.hashnode.dev/)
@@ -75,4 +79,5 @@ https://idksec.hashnode.dev/
 - Team Collaboration & Mentorship  
 - Adaptability & Continuous Learning  
 
+⭐ *Exploring the intersection of cloud security & automation – Let’s connect!*
 
