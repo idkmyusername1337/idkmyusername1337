@@ -46,7 +46,7 @@
 - Cloud Security Best Practices (IAM, Network Security, Data Protection)
 
 ## ✍️ My Blogs and articles link
-https://idksec.hashnode.dev/
+[![Read My Blogs](https://img.shields.io/badge/Blogs-Read%20Here-blue?style=for-the-badge&logo=hashnode)](https://idksec.hashnode.dev/)
 
 ## 💡Projects
 
@@ -58,9 +58,11 @@ https://idksec.hashnode.dev/
 
 
 
-## 🎓 Certifications
+## 🎓 Certification
 [![SC-900](https://img.shields.io/badge/SC--900-Security%20Compliance%20Identity-blue?style=for-the-badge&logo=microsoft)]https://learn.microsoft.com/api/credentials/share/en-us/ChandrimaDas-7898/5C5B7366449C0283?sharingId=A31D56E5ACACEDD8)
 
+## 🏅 Microsoft Learn Profile
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/chandrimadas-7898/)
 
 ## 🌟Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cybergirly-chandrima/)
