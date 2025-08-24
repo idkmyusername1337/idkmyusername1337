@@ -38,7 +38,7 @@
 
 ### **Cybersecurity Tools**
 - Wireshark, Burp Suite, Nmap, Metasploit, Hydra  
-- Subfinder, Maltego (OSINT & Recon)  
+- Subfinder, Maltego, Shodan (OSINT & Recon)  
 - OWASP ZAP (web app security scanning)  
 - Hashcat / John the Ripper (password auditing)  
 
