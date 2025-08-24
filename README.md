@@ -8,7 +8,7 @@
 - 🎯 **Focus:** Cloud Security, Azure Security, and Pentesting and Blog writing
 - 🛡 **Passionate about:** Securing cloud infrastructure & building automation scripts
 - ✅ **Certified:** [SC-900: Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/ChandrimaDas-7898/5C5B7366449C0283?sharingId=A31D56E5ACACEDD8)
-- 📚 **Currently Learning:** Azure Sentinel, Security Automation with PowerShell
+- 📚 **Currently Learning:** Azure Sentinel, Security Automation with PowerShell, RBAC 
 
 ---
 
@@ -22,6 +22,23 @@
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 
-## My Blogs and articles link
+## ✍️ My Blogs and articles link
 https://idksec.hashnode.dev/
 
+## 💡Projects
+
+
+
+
+
+
+
+
+
+
+
+
+## 🌟Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cybergirly-chandrima/)
+[![Hashnode](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://idksec.hashnode.dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_peacedeprived_/)
