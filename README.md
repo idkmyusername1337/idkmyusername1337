@@ -13,14 +13,38 @@
 ---
 
 ## 🛠 Technical Skills
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+## 🛠 Technical Skills
 
+### **Programming & Scripting**
+- PowerShell (Windows & Azure automation)  
+- Bash (Linux automation & cloud scripting)  
+- Python (security automation scripts, API scripting)  
+- YAML / JSON (configuration & IaC templates)
+
+### **Version Control**
+- Git & GitHub (project management, collaboration, CI/CD workflows)  
+- GitHub Actions (automation & DevSecOps pipelines)
+
+### **Cloud Security & Governance**
+- Microsoft Sentinel (SIEM & threat detection)  
+- Microsoft Defender for Cloud (security posture management)  
+- Microsoft Entra ID (Identity & Access Management)  
+- RBAC (Role-Based Access Control)  
+- Security Copilot (AI-driven security insights)  
+- Azure Policy & Blueprints (compliance automation)  
+- Cloud Audit & Logging (Azure Monitor, Log Analytics)
+
+### **Cybersecurity Tools**
+- Wireshark, Burp Suite, Nmap, Metasploit, Hydra  
+- Subfinder, Maltego (OSINT & Recon)  
+- OWASP ZAP (web app security scanning)  
+- Hashcat / John the Ripper (password auditing)  
+
+### **Security Concepts**
+- Cryptography (Digital Signatures, Hashing, Encryption)  
+- Blockchain Fundamentals & Smart Contracts  
+- Vulnerability Assessment & Threat Modeling  
+- Cloud Security Best Practices (IAM, Network Security, Data Protection)
 
 ## ✍️ My Blogs and articles link
 https://idksec.hashnode.dev/
