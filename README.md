@@ -1,4 +1,7 @@
-# Hi, I'm Chandrima 👋
+![hacker gif](https://github.com/user-attachments/assets/07c85f80-d9cf-4902-8655-392ab0407637)
+
+
+# Hi, I'm Chandrima 👩‍💻👋
 **Cloud Security Enthusiast | Microsoft SC-900 certified | Technical blog writer |**
 **My objective: To make CloudSec easier and accessible to learners and security enthusiast students, through my blogs, hands-on projects and practical guides**
 
