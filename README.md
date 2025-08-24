@@ -42,3 +42,5 @@ https://idksec.hashnode.dev/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cybergirly-chandrima/)
 [![Hashnode](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://idksec.hashnode.dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_peacedeprived_/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/MY-PORTFOLIO-25977d271b628034812bc548c66bbd22?source=copy_link)
+
