@@ -13,7 +13,6 @@
 ---
 
 ## 🛠 Technical Skills
-## 🛠 Technical Skills
 
 ### **Programming & Scripting**
 - PowerShell (Windows & Azure automation)  
@@ -59,12 +58,21 @@ https://idksec.hashnode.dev/
 
 
 
-
-
+## 🎓 Certifications
+![SC-900](https://img.shields.io/badge/SC--900-Security%20Compliance%20Identity-blue?style=for-the-badge&logo=microsoft)
+[Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/chandrimadas-7898/achievements) 
 
 ## 🌟Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cybergirly-chandrima/)
 [![Hashnode](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://idksec.hashnode.dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_peacedeprived_/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/MY-PORTFOLIO-25977d271b628034812bc548c66bbd22?source=copy_link)
+
+## 💡 Soft Skills
+- Communication & Presentation  
+- Problem-Solving & Analytical Thinking  
+- Time Management & Prioritization  
+- Team Collaboration & Mentorship  
+- Adaptability & Continuous Learning  
+
 
