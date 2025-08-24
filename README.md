@@ -59,9 +59,11 @@ https://idksec.hashnode.dev/
 
 
 ## 🎓 Certifications
-![SC-900](https://img.shields.io/badge/SC--900-Security%20Compliance%20Identity-blue?style=for-the-badge&logo=microsoft)
-[Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/chandrimadas-7898/achievements) 
+[![SC-900](https://img.shields.io/badge/SC--900-Security%20Compliance%20Identity-blue?style=for-the-badge&logo=microsoft)]https://learn.microsoft.com/api/credentials/share/en-us/ChandrimaDas-7898/5C5B7366449C0283?sharingId=A31D56E5ACACEDD8)
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idkmyusername1337&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idkmyusername1337&layout=compact&theme=tokyonight)
 
 ## 🌟Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cybergirly-chandrima/)
