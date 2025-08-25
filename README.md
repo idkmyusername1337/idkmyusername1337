@@ -23,11 +23,7 @@
 - Python (security automation scripts, API scripting)  
 - YAML / JSON (configuration & IaC templates)
 
-### **Version Control**
-- Git & GitHub (project management, collaboration, CI/CD workflows)  
-- GitHub Actions (automation & DevSecOps pipelines)
-
-### **Cloud Security & Governance**
+### **Microsoft Cloud Security & Governance**
 - Microsoft Sentinel (SIEM & threat detection)  
 - Microsoft Defender for Cloud (security posture management)  
 - Microsoft Entra ID (Identity & Access Management)  
@@ -35,6 +31,10 @@
 - Security Copilot (AI-driven security insights)  
 - Azure Policy & Blueprints (compliance automation)  
 - Cloud Audit & Logging (Azure Monitor, Log Analytics)
+
+### **Version Control**
+- Git & GitHub (project management, collaboration, CI/CD workflows)  
+- GitHub Actions (automation & DevSecOps pipelines)
 
 ### **Cybersecurity Tools**
 - Wireshark, Burp Suite, Nmap, Metasploit, Hydra  
