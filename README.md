@@ -2,13 +2,13 @@
 
 
 # Hi, I'm Chandrima 👩‍💻👋
-**Cloud Security Enthusiast | Microsoft SC-900 certified | Technical blog writer |**
-**My objective: To make CloudSec easier and accessible to learners and security enthusiast students, through my blogs, hands-on projects and practical guides**
+**Cloud Security Enthusiast | Microsoft SC-900 certified | OSINT explorer 🕵️‍♀️| Technical blog writer |**
+**My objective: To make CloudSec easier and accessible to learners and security enthusiast students, through my blogs, hands-on projects and practical guides. And integrating Cloud Security with OSINT (Open Source Intelligence)**
 
 ---
 
 ## 🚀 About Me
-- 🎯 **Focus:** Cloud Security, Azure Security, Pentesting and Blog writing
+- 🎯 **Focus:** Cloud Security, Azure Security, OSINT Analyst and Blog writing
 - 🛡 **Passionate about:** Securing cloud infrastructure & building automation scripts
 - ✅ **Certified:** [SC-900: Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/ChandrimaDas-7898/5C5B7366449C0283?sharingId=A31D56E5ACACEDD8)
 - 📚 **Currently Learning:** Azure Sentinel, Security Automation with PowerShell, RBAC and also preparing for SC-300 exam (Microsoft Certified: Identity and Access Administrator Associate) and later SC-200 (Microsoft Certified: Security Operations Analyst Associate)
