@@ -7,7 +7,6 @@
 
 ## 🌐 Mission: Making Cloud Security simple, practical, and cost-effective for students and security enthusiasts.
 
-🌌━━━━━━━━━━━━━━━━━━━━━━━🌌
 ## 🚀 About Me
 
 ## 🎯 Focus: Azure Security, Cloud Threat Mitigation, OSINT Analysis
@@ -22,15 +21,15 @@
 
 ## ⚙ Programming & Scripting
 
-PowerShell | Bash | Python | YAML | JSON
+`PowerShell` | `Bash` | `Python` | `YAML` | `JSON`
 
 ## ☁ Microsoft Cloud Security
 
-Microsoft Sentinel | Defender for Cloud | Entra ID | RBAC | Security Copilot | Azure Policy
+`Microsoft Sentinel` | `Defender for Cloud` | `Entra ID` | `RBAC` | `Security Copilot` | `Azure Policy`
 
 ## 🔍 Cybersecurity Tools
 
-Wireshark | Burp Suite | Nmap | Maltego | Shodan | OWASP ZAP
+`Wireshark` | `Burp Suite` | `Nmap` | `Maltego` | `Shodan` | `OWASP ZAP`
 
 ## 🔐 Security Concepts
 
