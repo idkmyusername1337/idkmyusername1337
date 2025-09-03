@@ -1,63 +1,42 @@
 ![hacker gif](https://github.com/user-attachments/assets/07c85f80-d9cf-4902-8655-392ab0407637)
 
 
-Hi, I'm Chandrima 👩‍💻
+## Hi, I'm Chandrima 👩‍💻
 
-Azure Security Enthusiast | Microsoft SC-900 Certified | OSINT Explorer 🕵️‍♀️ | Technical Blogger
+## ⚡Azure Security Enthusiast | Microsoft SC-900 Certified | OSINT Explorer 🕵️‍♀️ | Technical Blogger ⚡
 
-🌐 Mission: Making Cloud Security simple, practical, and cost-effective for students and security enthusiasts.
-🛡 Focus Areas:
+## 🌐 Mission: Making Cloud Security simple, practical, and cost-effective for students and security enthusiasts.
 
-Azure Security & Cloud Threat Mitigation
-
-OSINT for Cloud Security Research
-
-Hands-on Projects & Step-by-Step Guides
-
-📚 Content: Blogs, labs, and real-world examples to help learners understand and apply security concepts easily.
-
----
-
+🌌━━━━━━━━━━━━━━━━━━━━━━━🌌
 ## 🚀 About Me
-- 🎯 **Focus:** Azure Security, OSINT Analyst and Blog writing
-- 🛡 **Passionate about:** Securing cloud infrastructure & building automation scripts
+
+## 🎯 Focus: Azure Security, Cloud Threat Mitigation, OSINT Analysis
+
+🛡 Passionate About: Securing cloud infrastructure & automating security operations
 - ✅ **Certified:** [SC-900: Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/ChandrimaDas-7898/5C5B7366449C0283?sharingId=A31D56E5ACACEDD8)
 - 📚 **Currently Learning:** Azure Sentinel, Security Automation with PowerShell, RBAC and also preparing for SC-300 exam (Microsoft Certified: Identity and Access Administrator Associate) and later SC-200 (Microsoft Certified: Security Operations Analyst Associate)
 
----
+🌌━━━━━━━━━━━━━━━━━━━━━━━🌌
 
 ## 🛠 Technical Skills
 
-### **Programming & Scripting**
-- PowerShell (Windows & Azure automation)  
-- Bash (Linux automation & cloud scripting)  
-- Python (security automation scripts, API scripting)  
-- YAML / JSON (configuration & IaC templates)
+## ⚙ Programming & Scripting
 
-### **Microsoft Cloud Security & Governance**
-- Microsoft Sentinel (SIEM & threat detection)  
-- Microsoft Defender for Cloud (security posture management)  
-- Microsoft Entra ID (Identity & Access Management)  
-- RBAC (Role-Based Access Control)  
-- Security Copilot (AI-driven security insights)  
-- Azure Policy & Blueprints (compliance automation)  
-- Cloud Audit & Logging (Azure Monitor, Log Analytics)
+PowerShell | Bash | Python | YAML | JSON
 
-### **Version Control**
-- Git & GitHub (project management, collaboration, CI/CD workflows)  
-- GitHub Actions (automation & DevSecOps pipelines)
+## ☁ Microsoft Cloud Security
 
-### **Cybersecurity Tools**
-- Wireshark, Burp Suite, Nmap, Metasploit, Hydra  
-- Subfinder, Maltego, Shodan (OSINT & Recon)  
-- OWASP ZAP (web app security scanning)  
-- Hashcat / John the Ripper (password auditing)  
+Microsoft Sentinel | Defender for Cloud | Entra ID | RBAC | Security Copilot | Azure Policy
 
-### **Security Concepts**
-- Cryptography (Digital Signatures, Hashing, Encryption)  
-- Blockchain Fundamentals & Smart Contracts  
-- Vulnerability Assessment & Threat Modeling  
-- Cloud Security Best Practices (IAM, Network Security, Data Protection)
+## 🔍 Cybersecurity Tools
+
+Wireshark | Burp Suite | Nmap | Maltego | Shodan | OWASP ZAP
+
+## 🔐 Security Concepts
+
+Zero Trust Model | Cryptography | IAM Best Practices | Cloud Governance
+
+🌌━━━━━━━━━━━━━━━━━━━━━━━🌌
 
 ## ✍️ My Blogs and articles link
 [![Read My Blogs](https://img.shields.io/badge/Blogs-Read%20Here-blue?style=for-the-badge&logo=hashnode)](https://idksec.hashnode.dev/)
