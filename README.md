@@ -5,7 +5,7 @@
 
 ## ⚡Azure Security Enthusiast | Microsoft SC-900 Certified | OSINT Explorer 🕵️‍♀️ | Technical Blogger ⚡
 
-## 🌐 Mission: Making Azure Security simple, practical, and cost-effective for students and security enthusiasts.
+ 🌐 Mission: Making Azure Security simple, practical, and cost-effective for students and security enthusiasts.
 
 ## 🚀 About Me
 
