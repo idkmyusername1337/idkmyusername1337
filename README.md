@@ -68,8 +68,8 @@
 
 ## 🏅 Microsoft Learn Profile
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/chandrimadas-7898/)
-🎯 **XP:** 22,125
-🏅 **Badges:** 15  
+🎯 **XP:** 23,525
+🏅 **Badges:** 17
 🏆 **Trophies:** 3  
 
 ## 🌟Connect with me
