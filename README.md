@@ -12,7 +12,7 @@
 ## 🎯 Focus: Azure Security, Cloud Threat Mitigation, OSINT Analysis
 
 🛡 Passionate About: Securing cloud infrastructure & automating security operations
-- ✅ **Certified:** [SC-900: Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/ChandrimaDas-7898/5C5B7366449C0283?sharingId=A31D56E5ACACEDD8)
+- ✅ **Certified:** [🧷View My SC-900 certification](https://learn.microsoft.com/api/credentials/share/en-us/ChandrimaDas-7898/5C5B7366449C0283?sharingId=A31D56E5ACACEDD8)
 - 📚 **Currently Learning:** Azure Sentinel, Security Automation with PowerShell, RBAC and also preparing for SC-300 exam (Microsoft Certified: Identity and Access Administrator Associate) and later SC-200 (Microsoft Certified: Security Operations Analyst Associate)
 
 🌌━━━━━━━━━━━━━━━━━━━━━━━🌌
