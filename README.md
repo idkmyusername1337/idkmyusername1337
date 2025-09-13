@@ -1,6 +1,5 @@
 ![hacker gif](https://github.com/user-attachments/assets/07c85f80-d9cf-4902-8655-392ab0407637)
 
-
 ## Hi, I'm Chandrima 👩‍💻
 
 ## ⚡Azure Security Enthusiast | Microsoft SC-900 Certified | OSINT Explorer 🕵️‍♀️ | Technical Blogger ⚡
@@ -50,8 +49,11 @@
 
 🌌━━━━━━━━━━━━━━━━━━━━━━━🌌
 
-## ✍️ My Blogs and articles link
-[![Read My Blogs](https://img.shields.io/badge/Blogs-Read%20Here-blue?style=for-the-badge&logo=hashnode)](https://idksec.hashnode.dev/)
+## 🏅 Microsoft Learn Profile
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/chandrimadas-7898/)
+🎯 **XP:** 23,525 
+🏅 **Badges:** 17 
+🏆 **Trophies:** 3 
 
 ## 💡Projects
 
@@ -68,8 +70,8 @@
 
 ## 🏅 Microsoft Learn Profile
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/chandrimadas-7898/)
-🎯 **XP:** 23,525
-🏅 **Badges:** 17
+🎯 **XP:** 23,525 
+🏅 **Badges:** 17 
 🏆 **Trophies:** 3  
 
 ## 🌟Connect with me
