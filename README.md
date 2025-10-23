@@ -51,28 +51,9 @@
 
 ## 🏅 Microsoft Learn Profile
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/chandrimadas-7898/)
-🎯 **XP:** 23,525 
-🏅 **Badges:** 17 
-🏆 **Trophies:** 3 
-
-## 💡Projects
-
-
-
-
-
-
-
-
 
 ## 🎓 Certification
 [![SC-900](https://img.shields.io/badge/SC--900-Security%20Compliance%20Identity-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/ChandrimaDas-7898/5C5B7366449C0283?sharingId=A31D56E5ACACEDD8)
-
-## 🏅 Microsoft Learn Profile
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/chandrimadas-7898/)
-🎯 **XP:** 23,525 
-🏅 **Badges:** 17 
-🏆 **Trophies:** 3  
 
 ## 🌟Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cybergirly-chandrima/)
